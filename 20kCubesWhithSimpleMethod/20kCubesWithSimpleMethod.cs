@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Jobs;
 using Unity.Jobs;
 
-public class 20kCubesWhithSimpleMethod : MonoBehaviour
+public class CubesWhithSimpleMethod : MonoBehaviour
 {
     float deltaTime;
     float fpsmed = 0;
