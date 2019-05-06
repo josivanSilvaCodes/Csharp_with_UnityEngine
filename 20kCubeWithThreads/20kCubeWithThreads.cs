@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Threading;
 
-public class CubesThread : MonoBehaviour
+public class CubesWithThreads : MonoBehaviour
 {
     float deltaTime;
     float fpsmed = 0;
